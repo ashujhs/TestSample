@@ -14,7 +14,7 @@ Define classes and implement. Try to create an efficient implementation. Analyze
 * What if I have to find values for a large set of dates from a large set of date ranges frequently?  
 * What if new data is frequently added?
  
-###Example :
+**Example :**
 For 1/16/15: Total Value = 5 + 2 + 3 = 10
 For 1/20/15: Total Value = 5 + 2 + 3 = 10
  
