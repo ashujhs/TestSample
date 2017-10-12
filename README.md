@@ -10,11 +10,11 @@ DataSet
 Have values for date-time ranges (inclusive range). Given any date, calculate total value. Assume the date-times are at second precision. It is also possible that some dates have no values and ranges can overlap. Same date-time ranges with different values may also exist. Also, assume you have a very large set of data.
 Define classes and implement. Try to create an efficient implementation. Analyze efficiency of your implementation.
  
-#####Things to consider for API:
+####Things to consider for API:
 * What if I have to find values for a large set of dates from a large set of date ranges frequently?  
 * What if new data is frequently added?
  
-#####Example :
+###Example :
 For 1/16/15: Total Value = 5 + 2 + 3 = 10
 For 1/20/15: Total Value = 5 + 2 + 3 = 10
  
