@@ -115,6 +115,8 @@
       <profile>
           <id>jdk8</id>
           <activation>
+              <activeByDefault>true</activeByDefault>
+              <jdk>1.8</jdk>
               <property>
                   <name>maven.compiler.executable</name>
               </property>
